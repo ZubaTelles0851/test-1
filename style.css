@@ -1,0 +1,12 @@
+body {
+    background-color:black;
+    margin: 0px;
+    background-image: url(download.jpg)
+}
+header {
+    background-color: green;
+    padding: 10px;
+}
+.peak {
+    width: 90px;
+}
